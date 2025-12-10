@@ -2,7 +2,7 @@
 
 ### Hi there\! 👋🏽
 
-[cite_start]I'm a **Master's Student in Computer Science** at the University of Freiburg, specialising in **Artificial Intelligence**[cite: 7, 10].
+I'm a **Master's Student in Computer Science** at the University of Freiburg, specialising in **Artificial Intelligence**[cite: 7, 10].
 
 Here’s a snapshot of what I do, love, and live by:
 
