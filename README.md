@@ -1,25 +1,34 @@
+-----
 
----
+### Hi there\! 👋🏽
 
-### Hi there! 👋🏽
-
-I'm a computer science grad 🎓, specialising in AI 🤖.
+[cite_start]I'm a **Master's Student in Computer Science** at the University of Freiburg, specialising in **Artificial Intelligence**[cite: 7, 10].
 
 Here’s a snapshot of what I do, love, and live by:
 
 #### 🛠️ Technical Skills:
 
-- **Languages**: Python, C/C++, Next.js, SQL
-- **Machine Learning Frameworks**: TensorFlow, PyTorch
-- **Specialisations**: Generative AI, NLP, Computer Vision, Reinforcement Learning
+  - [cite_start]**Languages**: Python, C++, C, JavaScript, SQL [cite: 59]
+  - [cite_start]**AI & ML Frameworks**: PyTorch, TensorFlow, LangChain, Hugging Face, MONAI [cite: 60, 61]
+  - [cite_start]**Cloud & Ops**: Docker, Kubernetes, AWS (SageMaker), Azure, MLFlow [cite: 63]
 
 #### 💼 Professional Experience:
 
-- Designed an ML system at **Wizdom Ed** that uses knowledge embeddings, NLP, and large language models to personalise learning. We saw a 📈 30% increase in student test scores and a 55% boost in engagement!
-- Authored research on text-to-3D generation at **Artificer**, merging diffusion models with linguistic planning. Our work enhances 3D content creation across VR, visual effects, and product design.
+  - [cite_start]**Machine Learning Intern at Wizdom Ed**: Engineered a **Retrieval-Augmented Generation (RAG)** pipeline using LangChain to reduce hallucinations[cite: 24, 27].
+      - [cite_start]📈 Achieved a **35% increase** in student engagement by optimizing data ingestion workflows[cite: 28].
+      - [cite_start]🚀 Drove a **25% improvement** in learning outcomes and a **30% boost** in positive response rates through retrieval quality feedback loops[cite: 29].
 
-### Let's Connect!
+#### 🧠 Key Projects:
 
-I’m always up for a collaboration! Got a question or want to discuss the next big thing in AI? Drop me a message! 📩 Here’s to creating, exploring, and enjoying every moment! 🚀
+  - [cite_start]**UNETR 3D Abdomen Segmentation**: Architected a volumetric segmentation pipeline using Vision Transformers (UNETR) on the BTCV dataset[cite: 31, 33].
+      - [cite_start]Achieved a **0.8027 Mean Dice Score** for 13 distinct organs using compound Dice-Cross Entropy loss[cite: 33, 35, 36].
+  - [cite_start]**Neural Machine Translation**: Developed a Transformer-based NMT model for English-Hindi translation[cite: 38, 40].
+      - [cite_start]Reached a **SacreBLEU score of 62.48** and reduced Character Error Rate (CER) to 0.28[cite: 41, 42].
 
----
+### Let's Connect\!
+
+I’m always up for a collaboration\! Got a question or want to discuss the next big thing in AI? Drop me a message\! 📩
+
+[LinkedIn](https://www.google.com/search?q=https://www.linkedin.com/in/karan-anchan) | [Email](mailto:kar.anchan02@gmail.com)
+
+-----
