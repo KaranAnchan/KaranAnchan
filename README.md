@@ -4,8 +4,8 @@
 
 # Karan Anchan
 
-**M.Sc. Computer Science (AI)** &nbsp;·&nbsp; University of Freiburg
-Freiburg im Breisgau, Germany
+**`M.Sc. Computer Science (AI)`** &nbsp;·&nbsp; `University of Freiburg`
+`Freiburg im Breisgau, Germany`
 
 <a href="https://karananchan.github.io/"><img src="https://img.shields.io/badge/Portfolio-0A0A0B?style=flat-square&logo=githubpages&logoColor=C7F284&labelColor=0A0A0B" alt="Portfolio" /></a>
 <a href="https://linkedin.com/in/karan-anchan"><img src="https://img.shields.io/badge/LinkedIn-0A0A0B?style=flat-square&logo=linkedin&logoColor=C7F284&labelColor=0A0A0B" alt="LinkedIn" /></a>
@@ -16,13 +16,13 @@ Freiburg im Breisgau, Germany
 
 ---
 
-### About
+### `About`
 
 I build end-to-end AI systems — from volumetric medical-image segmentation with vision transformers, to Transformer architectures for low-resource translation, to retrieval-augmented generation pipelines in production. I care about measured metrics, reproducible pipelines, and systems that actually ship.
 
 ---
 
-### Tech Stack
+### `Tech Stack`
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=python,cpp,c,js,pytorch,tensorflow,docker,aws,git,github,linux,bash&perline=12" alt="Tech stack icons" />
@@ -32,7 +32,7 @@ I build end-to-end AI systems — from volumetric medical-image segmentation wit
 
 ---
 
-### Experience
+### `Experience`
 
 #### Machine Learning Intern &nbsp;·&nbsp; WiZdom Ed
 *Mangalore, India · Oct 2023 — Oct 2024*
@@ -44,7 +44,7 @@ I build end-to-end AI systems — from volumetric medical-image segmentation wit
 
 ---
 
-### Featured Projects
+### `Featured Projects`
 
 #### 🧬 [UNETR — 3D Abdomen Segmentation](https://github.com/KaranAnchan/Unetr_3D_Abdomen_Segmentation)
 *PyTorch · MONAI · Vision Transformers*
@@ -62,7 +62,7 @@ Transformer architecture implemented from scratch (multi-head attention, positio
 
 ---
 
-### Education
+### `Education`
 
 **M.Sc. Computer Science (Artificial Intelligence)** &nbsp;·&nbsp; *Apr 2025 — Present*
 Albert Ludwig University of Freiburg
@@ -74,7 +74,7 @@ GPA **9.33 / 10** &nbsp;·&nbsp; German equivalent **1.3**
 
 ---
 
-### Certifications
+### `Certifications`
 
 | Credential | Issuer |
 |---|---|
@@ -85,7 +85,7 @@ GPA **9.33 / 10** &nbsp;·&nbsp; German equivalent **1.3**
 
 ---
 
-### Languages
+### `Languages`
 
 🇬🇧 English (C2) &nbsp;·&nbsp; 🇮🇳 Hindi (Native) &nbsp;·&nbsp; 🇩🇪 German (A2 → pursuing B1)
 
