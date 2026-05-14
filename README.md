@@ -1,34 +1,36 @@
------
+### Hi there! I'm Karan Anchan I am an **M.Sc. Computer Science** student at the **University of Freiburg**, specializing in **Artificial Intelligence** .
 
-### Hi there\! 👋🏽
+---
 
-I'm a **Master's Student in Computer Science** at the University of Freiburg, specialising in **Artificial Intelligence**.
+#### 🛠️ Technical Stack
 
-Here’s a snapshot of what I do, love, and live by:
+* **Languages**: Python, C++, C, SQL, JavaScript * **AI/ML**: PyTorch, TensorFlow, MONAI, Transformers, LangChain, MLFlow, ONNX * **Infrastructure**: Docker, Git, AWS, CI/CD ---
 
-#### 🛠️ Technical Skills:
+#### 💼 Experience
 
-  - **Languages**: Python, C++, C, JavaScript, SQL.
-  - **AI & ML Frameworks**: PyTorch, TensorFlow, LangChain, Hugging Face, MONAI.
-  - **Cloud & Ops**: Docker, Kubernetes, AWS (SageMaker), Azure, MLFlow.
+**Machine Learning Intern | Wizdom Ed** * Built a RAG-based search system using LangChain and ChromaDB for internal document retrieval .
+* Increased data ingestion speed by 40% using recursive text splitting .
+* Reached 90% answer accuracy through a cosine similarity feedback loop .
+* Managed a database of 5,000+ educational documents for automated support .
 
-#### 💼 Professional Experience:
+---
 
-  - **Machine Learning Intern at Wizdom Ed**: Engineered a **Retrieval-Augmented Generation (RAG)** pipeline using LangChain to reduce hallucinations.
-      - 📈 Achieved a **35% increase** in student engagement by optimizing data ingestion workflows.
-      - 🚀 Drove a **25% improvement** in learning outcomes and a **30% boost** in positive response rates through retrieval quality feedback loops.
+#### 🧠 Projects
 
-#### 🧠 Key Projects:
+**3D Medical Image Segmentation (UNETR)** * Developed a 3D segmentation pipeline using Vision Transformers for the BTCV dataset .
+* Applied Hounsfield Unit scaling to normalize organ visibility in DICOM/NIFTI files .
+* Achieved a 0.82 mean Dice score across 13 organs using Dice-Cross Entropy loss .
 
-  - **UNETR 3D Abdomen Segmentation**: Architected a volumetric segmentation pipeline using Vision Transformers (UNETR) on the BTCV dataset.
-      - Achieved a **0.8027 Mean Dice Score** for 13 distinct organs using compound Dice-Cross Entropy loss.
-  - **Neural Machine Translation**: Developed a Transformer-based NMT model for English-Hindi translation.
-      - Reached a **SacreBLEU score of 62.48** and reduced Character Error Rate (CER) to 0.28.
+**English-Hindi Translation Model (NMT)** * Built a Transformer-based translation model from scratch using the IIT Bombay corpus .
+* Implemented multi-head attention and positional encoding for context processing .
+* Reached a performance score of 62.48 BLEU .
 
-### Let's Connect\!
+---
 
-I’m always up for a collaboration\! Drop me a message\! 📩
+#### 📜 Certifications
 
-[LinkedIn](https://www.linkedin.com/in/karan-anchan) | [Email](mailto:kar.anchan02@gmail.com)
+* **MLOps** | Duke University * **Machine Learning Specialization** | Stanford & DeepLearning.AI ---
 
------
+### Let's Connect
+
+[LinkedIn](https://linkedin.com/in/karan-anchan) | [Email](mailto:kar.anchan02@gmail.com) ```
