@@ -62,21 +62,6 @@ Transformer architecture implemented from scratch (multi-head attention, positio
 
 ---
 
-### GitHub Activity
-
-<div align="center">
-
-<a href="https://github.com/KaranAnchan">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=KaranAnchan&show_icons=true&hide_border=true&bg_color=0A0A0B&title_color=C7F284&icon_color=C7F284&text_color=EDEAE0&ring_color=C7F284&include_all_commits=true&count_private=true" alt="GitHub stats" />
-</a>
-<a href="https://github.com/KaranAnchan">
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KaranAnchan&layout=compact&hide_border=true&bg_color=0A0A0B&title_color=C7F284&text_color=EDEAE0&langs_count=6&hide=jupyter%20notebook" alt="Top languages" />
-</a>
-
-</div>
-
----
-
 ### Education
 
 **M.Sc. Computer Science (Artificial Intelligence)** &nbsp;·&nbsp; *Apr 2025 — Present*
